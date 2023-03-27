@@ -1,0 +1,301 @@
+@media screen and (min-width: 320px) and (max-width: 573.98px) {
+   html, body{
+        overflow-x: hidden;
+    }
+    .fa-solid.fa-bars {
+        color: #fff;
+        border: none !important;
+    }
+
+    .navbar-toggler {
+        border: none;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar.navbar-expand-lg.navbar-light {
+        padding: 0 10px;
+        background: rgba(73, 198, 87, 0.588);
+    }
+
+    #navbarNav {
+        text-align: center;
+        margin-left: 100px;
+    }
+
+    .button {
+        display: none;
+    }
+
+    /* bannnar start */
+    #bannar {
+        padding-top: 123px;
+        padding-bottom: 90px;
+    }
+    .icon-box {
+        width: 141px;
+        height: 47px;
+    }
+
+    .p-d {
+        padding: 0;
+    }
+
+    .b-text h1 {
+        font-size: 27px;
+        line-height: 100%;
+        padding: 0 4px;
+    }
+
+    .p-d p {
+        font-size: 10px;
+        line-height: 18px;
+        width: auto;
+        padding: 0 12px;
+    }
+
+    .all-center img {
+        width: 100%;
+    }
+
+    .all-center {
+        width: 220px;
+        margin-left: 55px;
+    }
+
+    .all .icon-box {
+        width: 146px;
+        height: 45px;
+    }
+
+    .icon-box a {
+        font-size: 13px;
+        line-height: 44px;
+    }
+
+    /* succes */
+    #success {
+        padding-top: 8px;
+    }
+
+    .h-tag h2 {
+        font-size: 21px;
+    }
+
+    .h-tag p {
+        font-size: 19px;
+        line-height: 24px;
+    }
+
+    .text-rg h2 {
+        font-size: 43px;
+        line-height: 36px;
+    }
+
+    .text-rg p {
+        font-size: 16px;
+    }
+
+    .collor-bg {
+        padding: 12px 56px;
+    }
+
+    /* services */
+    .all-head h2 {
+        font-size: 37px;
+        line-height: 42px;
+    }
+
+    #our-services {
+        padding-top: 41px;
+        padding-bottom: 17px;
+    }
+
+    .all-head p {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+    .all-center h2 {
+        padding-top: 13px;
+        font-size: 22px;
+        line-height: 24px;
+    }
+
+    .all-center p {
+        font-size: 11px;
+        line-height: 18px;
+        padding-top: 0px;
+        width: 257px;
+        margin-left: -37px;
+    }
+
+    .top-to {
+        padding-top: 0;
+    }
+
+    .all-center {
+        padding: 40px 20px 30px 20px;
+    }
+
+    /* recent */
+    #recent-work {
+        padding-top: 6px;
+        padding-bottom: 13px;
+    }
+
+    .all-head h2 {
+        font-size: 26px;
+        line-height: 15px;
+    }
+
+    .all-head p {
+        font-size: 10px;
+        line-height: 14px;
+    }
+
+    .work {
+        width: 270px;
+        margin-left: 30px;
+        padding-top: 8px;
+    }
+
+    img,
+    svg {
+        vertical-align: middle;
+        width: 100%;
+    }
+
+    .all-head h2 {
+        font-size: 22px;
+        line-height: 20px;
+    }
+
+    #what-the {
+        padding-top: 22px;
+        padding-bottom: 75px;
+    }
+
+    .all-head p {
+        font-size: 9px;
+        line-height: 12px;
+    }
+
+    .logo {
+        /* padding-right: 131px; */
+        /* width: 100px; */
+        margin-left: 100px;
+    }
+
+    .logo h2 {
+        font-size: 24px;
+        line-height: 28px;
+    }
+
+    .logo h2 {
+        font-size: 23px;
+        line-height: 28px;
+        width: 239px;
+        margin-left: -30px;
+    }dd
+
+    .logo p {
+        padding-bottom: 16px;
+        width: 249px;
+        margin-left: -43px;
+        font-size: 13px;
+        line-height: 18px;
+    }
+
+    /* mmmmmmmmm */
+    .pic {
+        width: 278px;
+        margin-left: 21px;
+    }
+
+    #what-the {
+        padding-top: 14px;
+        padding-bottom: 17px;
+    }
+    .numner-text {
+        width: 230px;
+        margin-left: 20px;
+    }
+    .numner-text p {
+        padding-top: 15px;
+        padding-bottom: 10px;
+        width: 250px;
+        font-size: 11px;
+        line-height: 14px;
+        padding-right: 30px;
+    }
+    .client-img img{
+        width: 70px;
+    }
+    .fa-solid.fa-angle-left.right {
+        display: none;
+    }
+    .fa-solid.fa-angle-right.left {
+        display: none;
+    }
+    .pt-rg {
+        padding: 0px 95px 0px 35px;
+    }
+    #fm-prt {
+        background: #F3F3F3;
+        padding-top: 15px;
+        padding-bottom: 50px;
+    }
+    .all-tx h2 {
+        margin-left: 44px;
+        font-size: 21px;
+    }
+    .all-tx p {
+        padding-right: 0px;
+        font-size: 11px;
+        margin-left: 35px;
+    }
+    .h2-tag {
+        padding: 24px 41px;
+    }
+    .last-icon {
+        padding: 0px 91px;
+    }
+    .last-icon a {
+        font-size: 10px;
+        line-height: 9px;
+    }
+    #fm-prt {
+        padding-top: 0px;
+        padding-bottom: 20px;
+    }
+    #end-of {
+        padding: 11px 0;
+    }
+    .le-text img{
+        margin-left: 50px;
+    }
+    .col-lg-4.le-text p {
+        margin-top: 10px;
+        margin-left: 35px;
+        font-size: 10px;
+        width: 272px;
+    }
+    .all-rg h2 {
+        font-size: 28px;
+        line-height: 14px;
+    }
+    .all-rg{
+        margin-left: 90 px;
+    }
+    .p-tag {
+        font-size: 12px;
+        padding-top: 22px;
+        line-height: 10px;
+    }
+    .footer-tx p {
+        font-size: 11px;
+    }
+}

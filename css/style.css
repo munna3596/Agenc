@@ -1,0 +1,361 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ul,ol{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+display: inline-block;    
+}
+body{
+    overflow-x: hidden;
+}
+.navbar {
+    padding-top: 40px;
+    background: rgba(0, 0, 0, 0.08);
+    padding-bottom: 0;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+.container{
+    padding-right: 0;
+    padding-left: 0;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    margin-right: 60px;
+    font-weight: ;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    text-transform: capitalize;
+    color: #fff;
+    transition: all linear .5s;
+}
+.navbar-expand-lg .navbar-nav nav-item:last-child.nav-link{
+    margin-right: 0;
+}
+.button {
+    padding: 15px 42px;
+    background: #6A4DF4;
+    font-family: 'Inter', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 10px;
+}
+.button a{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-nav :hover.nav-link {
+    color: #4756DF;
+    font-weight: 700;
+}
+/* nav ee */
+/* bannar s */
+#bannar{
+    background-image: url(..//images/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-top: 315px;
+    padding-bottom: 176px;
+    position: relative;
+}
+.b-text h1{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 75px;
+line-height: 120%;
+color: #FFFFFF;
+
+}
+.p-d{
+padding: 0 190px;
+}
+.p-d p{
+padding: 0 165px;
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #FFFFFF;
+}
+.icon-box{
+    background: #6A4DF4;
+    border-radius: 10px;
+    width: 204px;
+    height: 64px;
+}
+.icon-box a{
+text-align: center;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height:64px;
+color: #FFFFFF;
+display: inline;
+padding-left: 42px;
+}
+#banner:after{
+    content:  '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.6);
+}
+/* successs p */
+#success{
+    padding-top: 100px;
+    
+}
+.collor-bg{
+    background: #E0FFF9;
+    display: flex;
+    padding: 60px 50px;
+}
+.text-rg{
+    padding-left: 50px;
+}
+.h-tag h2{
+    font-weight: 500;
+    font-size: 25px;
+    color: #6A4DF4;
+    line-height: 120%;
+    font-family: 'Inter';
+}
+.h-tag p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 35px;
+line-height: 42px;
+}
+.text-rg h2{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 61px;
+}
+.text-rg p{    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 20px;
+}
+/* success e */
+
+
+/* mid st */
+#our-services{
+    padding-top: 149px;
+    padding-bottom: 122px;
+}
+.all-head h2{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 54px;
+}
+.all-head p{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #737373;
+}
+.top-to{
+    padding-top: 50px;
+}
+.all-center{
+    text-align: center;
+    padding: 60px 20px 40px 20px;
+}
+.all-center:hover{
+    box-shadow: 0 0 10px 2px;
+    border-radius: 10px;
+}
+.all-center h2{
+ padding-top: 30px;
+ padding-bottom: 10px;
+ font-family: 'Inter';
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #151515;
+}
+.all-center p{
+font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #737373;
+padding-top: 20px;
+}
+
+
+/* mid end */
+/* recent work */
+#recent-work{
+    background: #F3F3F3;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+.hard-work{
+    padding-top: 30px;
+}
+
+#what-the{
+    padding-top: 150px;
+    padding-bottom: 100px;
+}
+.munna{
+    padding-top: 60px;
+}
+.logo{
+    padding-right: 96px;
+}
+.logo h2{
+font-family: 'Inter';
+font-weight: 700;
+font-size: 25px;
+line-height: 30px;
+color: #151515;
+}
+.logo p{
+padding-bottom: 50px;
+font-family: 'Inter';
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #737373;
+}
+/* alll */
+.client-name{
+    padding-left: 19px;
+}
+.client-name p{
+    margin-top: -24px;
+}
+.numner-text p{
+    padding-top: 15px;
+    padding-bottom: 10px;
+}
+.pt-rg {
+    padding: 72px 95px 89px 35px;
+}
+.numner-text:hover{
+background: #F4EFEF;
+border-radius: 30px;
+}
+.numner-text{
+    transition: all linear .6s;
+    padding: 40px 30px 40px 30px;
+}
+#all-aervices{
+    position: relative;
+}
+.right {
+    position: absolute;
+    top: 50%;
+    left: 2%;
+    transform: translateY(-50%);
+    height: 50px;
+    width: 50px;
+    background: #4756DF;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+}
+.left {
+    position: absolute;
+    top: 50%;
+    right: 3%;
+    transform: translatex(-50%);
+    height: 50px;
+    width: 50px;
+    background: #4756DF;
+    border-radius: 50%;
+    line-height: 50px;
+    text-align: center;
+}
+/* fm part */
+#fm-prt{
+    background: #F3F3F3;
+    padding-top: 200px;
+    padding-bottom: 100px;
+}
+.last-icon{
+    background: hsl(250, 88%, 63%);
+    border-radius: 10px;
+    padding: 30px 130px;
+}
+.bgp{
+    text-align: center;
+}
+.last-icon a{
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 26px;
+text-align: center;
+color: #FFFFFF;
+}
+.h2-tag{
+    padding: 100px 50px;
+    background:#FFFFFF;
+    border-radius: 20px;
+
+}
+/* mmmmmmm */
+.le-text{
+    padding-right: 98px;
+}
+#end-of{
+    padding: 100px 0;
+}
+.p-tag{
+    padding-top: 20px;
+    
+
+}
+.col-lg-4.le-text p {
+    margin-top: 30px;
+}
+/* end of  */
+.ft-border{
+    border-top: 1px solid #E8E8E8;
+}
+.footer-tx{
+    padding: 20px 0;
+}
+.footer-tx p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #D0D0D0;
+}
+/* not found */
+.all-tx p{
+    padding-right: 177px;
+}
+.all-tx p span{
+padding-right: 50px !important;
+}
+.client-items{
+    padding-top: 30px;
+}
